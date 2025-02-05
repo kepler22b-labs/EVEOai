@@ -5,6 +5,5 @@
 )]
 
 2. Video CLipper to eliza tool
-[![frontend](eveo-frontend.vercel.app
-)]
+[![frontend]([(https://github.com/kepler22b-labs/EVEOai))]
 
