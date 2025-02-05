@@ -5,5 +5,5 @@
 )]
 
 2. Video CLipper to eliza tool
-[![frontend]([(https://github.com/kepler22b-labs/EVEOai))]
+[![tool]([(https://github.com/kepler22b-labs/EVEOai))]
 
