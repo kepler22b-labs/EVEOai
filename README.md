@@ -1,8 +1,8 @@
 # EVEOai
 
 1. Frontend
-[![frontend](eveo-frontend.vercel.app
-)]
+[![frontend]([eveo-frontend.vercel.app
+](https://eveo-frontend.vercel.app/))]
 repo - [(https://github.com/suhas-sensei/eveo-frontend)]
 
 2. Video CLipper to eliza tool
